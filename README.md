@@ -15,8 +15,6 @@
 - [x] Develop an App on any mobile platform to perform mobile payment using the cryptocurrency network
 - [x] Show pending transactions
 
-## Server
-https://github.com/howk829/EE4017-cryptocurrency-network-server
 
 ## Screenshots
 <img src="https://github.com/howk829/EE4017-cryptocurrency-network-app/blob/master/Screenshot_20201107-222556.jpg" width="270" height="480">
