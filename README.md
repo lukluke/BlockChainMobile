@@ -1,6 +1,3 @@
-# EE4017-cryptocurrency-network-app
-EE40170-cryptocurrency-network
-
 ## Compulsory features
 
 - [x] Able to generate a new wallet
